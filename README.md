@@ -211,6 +211,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Web hosting and server control panels.*
 
 * [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+* [CentOS Web Panel](http://centos-webpanel.com/) - Web Hosting and Server control panel For CentOS Linux.
 * [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
 * [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
 * [Froxlor](http://www.froxlor.org/) - Easy to use panel for Linux with Nginx and PHP-FPM support.
